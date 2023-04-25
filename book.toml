@@ -1,0 +1,6 @@
+[book]
+authors = ["allinmove"]
+language = "en"
+multilingual = false
+src = "src"
+title = "sui move book"
