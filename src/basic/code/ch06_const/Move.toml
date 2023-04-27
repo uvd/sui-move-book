@@ -1,5 +1,5 @@
 [package]
-name = "ch04"
+name = "ch06_const"
 version = "0.0.1"
 
 [dependencies]

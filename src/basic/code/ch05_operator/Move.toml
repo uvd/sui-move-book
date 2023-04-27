@@ -1,5 +1,5 @@
 [package]
-name = "ch04"
+name = "ch05_operator"
 version = "0.0.1"
 
 [dependencies]
