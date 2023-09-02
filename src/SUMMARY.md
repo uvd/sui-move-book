@@ -48,6 +48,6 @@
   - [sui 经济模型](./lsd/02.economic.md)
   - [api](./lsd/03.api.md)
   - [生态介绍](./lsd/04.ecosystem.md)
-  - [lsd黑客松](./lsd/04.ecosystem.md)
+  - [lsd黑客松](./lsd/05.hackathon.md)
 
 
