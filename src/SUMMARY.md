@@ -43,4 +43,10 @@
    - [kiosk-sdk](./nft/06.kiosk-sdk.md)
    - [kiosk-rule](./nft/07.kiosk-rule.md)
    - [nft市场](./nft/08.market.md)
+- [LSD](./lsd/readme.md)
+  - [nft介绍](./lsd/01.intro.md)
+  - [display](./lsd/02.economic.md)
+  - [publisher](./lsd/03.api.md)
+  - [发行NFT](./lsd/04.ecosystem.md)
+
 
