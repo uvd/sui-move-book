@@ -44,7 +44,7 @@
    - [kiosk-rule](./nft/07.kiosk-rule.md)
    - [nft市场](./nft/08.market.md)
 - [LSD](./lsd/readme.md)
-  - [lsd介绍](./lsd/01.intro.md)
+  - [lsd介绍](./lsd/01.intor.md)
   - [sui 经济模型](./lsd/02.economic.md)
   - [api](./lsd/03.api.md)
   - [生态介绍](./lsd/04.ecosystem.md)
