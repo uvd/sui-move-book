@@ -10,7 +10,6 @@
     - [常量](./basic/ch06.const.md)
     - [表达式和作用域](./basic/ch07.expression-and-scope.md)
     - [控制流](./basic/ch08.control-flow.md)
-    - [表达式和作用域](./basic/ch07.expression-and-scope.md)
     - [事件](./basic/ch09.event.md)
     - [错误处理](./basic/ch10.error.md)
   
