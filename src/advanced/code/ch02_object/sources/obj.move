@@ -3,7 +3,7 @@ module book::obj {
     use sui::transfer;
     use sui::tx_context::{Self, TxContext};
 
-    struct Obj has key {
+    public struct Obj has key {
         id: UID,
         attr_1: u64,
         attr_2: u64,
