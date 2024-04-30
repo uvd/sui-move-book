@@ -11,7 +11,7 @@ module book::m_use2 {
 
     fun main(ctx: &mut TxContext) {
         // use functions without module access
-        let vec = empty<u8>();
+        let mut vec = empty<u8>();
         push_back(&mut vec, 10);
         let _ = sender(ctx);
     }

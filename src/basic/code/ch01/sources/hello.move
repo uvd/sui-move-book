@@ -4,7 +4,7 @@ module ch01::hello {
     use std::string;
     use std::string::String;
 
-    struct HelloMove has key,store{
+    public struct HelloMove has key,store{
         hello:String
     }
 
